@@ -1,0 +1,127 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Martínez Costa",
+      "title": "El peor jugador de videojuegos ",
+      "description": "Me interesé por la programación de casualidad, pero una vez que le di una oportunidad y me encantó. Disfruto mucho programando ",
+      "avatar": {
+        "alt": "SAVE_20210818_163356.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/09/48f0c6d1-8e49-48b8-83df-267ed6a62128_save_20210818_163356.jpg"
+      },
+      "location": {
+        "notes": "Pontevedra "
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "En mi tiempo libre",
+        "fact": "Jugar videojuegos\nVer series\nQuedar con mis amigos "
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
