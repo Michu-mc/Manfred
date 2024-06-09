@@ -11,8 +11,8 @@
       "title": "Base de datos",
       "description": "Tengo una experiencia de dos meses de prácticas, en las cuales desarrollé la parte gráfica de un microservicio y desarrollé plantillas de impresión, utilizando lenguajes como HTML5, CSS, Angular y Node js.\nEl microservicio era de una aplicación web para un taller en el cual podías marcar los detalles de las incidencias, escribir breves descripciones, completar los datos del propietario y otros datos de importancia.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/d04571b2-cd8a-4ccc-9f98-fd655d9d3c58_linkedin-photo-7954.linkedin-photo-7954",
-        "alt": "24/06/09/d04571b2-cd8a-4ccc-9f98-fd655d9d3c58_linkedin-photo-7954.linkedin-photo-7954"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/e2526a4c-4fd6-433d-a1f4-bda1a7bce00f_linkedin-photo-7954.linkedin-photo-7954",
+        "alt": "24/06/09/e2526a4c-4fd6-433d-a1f4-bda1a7bce00f_linkedin-photo-7954.linkedin-photo-7954"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ91_ZgYdjLw0R0BbLc4L1BAQ)",
@@ -32,8 +32,8 @@
         "organization": {
           "name": "Fandicosta S.A.",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/6ba8fca7-03e1-47ff-a73f-2f7d03f08283_linkedin-photo-7954.linkedin-photo-7954",
-            "alt": "24/06/09/6ba8fca7-03e1-47ff-a73f-2f7d03f08283_linkedin-photo-7954.linkedin-photo-7954"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/4788f414-0112-402b-b666-ae8cfd002ae4_linkedin-photo-7954.linkedin-photo-7954",
+            "alt": "24/06/09/4788f414-0112-402b-b666-ae8cfd002ae4_linkedin-photo-7954.linkedin-photo-7954"
           }
         },
         "roles": [
@@ -90,7 +90,25 @@
       },
       {
         "skill": {
+          "name": "DBeaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -102,13 +120,37 @@
       },
       {
         "skill": {
-          "name": "Java",
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
