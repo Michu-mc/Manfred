@@ -11,8 +11,8 @@
       "title": "Base de datos",
       "description": "Tengo una experiencia de dos meses de prácticas, en las cuales desarrollé la parte gráfica de un microservicio y desarrollé plantillas de impresión, utilizando lenguajes como HTML5, CSS, Angular y Node js.\nEl microservicio era de una aplicación web para un taller en el cual podías marcar los detalles de las incidencias, escribir breves descripciones, completar los datos del propietario y otros datos de importancia.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/eb2a5ea3-86e5-4a5b-a8a4-b8e8c00fe6f8_linkedin-photo-7954.linkedin-photo-7954",
-        "alt": "24/06/09/eb2a5ea3-86e5-4a5b-a8a4-b8e8c00fe6f8_linkedin-photo-7954.linkedin-photo-7954"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/d04571b2-cd8a-4ccc-9f98-fd655d9d3c58_linkedin-photo-7954.linkedin-photo-7954",
+        "alt": "24/06/09/d04571b2-cd8a-4ccc-9f98-fd655d9d3c58_linkedin-photo-7954.linkedin-photo-7954"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ91_ZgYdjLw0R0BbLc4L1BAQ)",
@@ -26,22 +26,53 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Fandicosta S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/6ba8fca7-03e1-47ff-a73f-2f7d03f08283_linkedin-photo-7954.linkedin-photo-7954",
+            "alt": "24/06/09/6ba8fca7-03e1-47ff-a73f-2f7d03f08283_linkedin-photo-7954.linkedin-photo-7954"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar administrativo",
+            "startDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Salidas de mercancía y gestión de productos y mercancía"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "digitalíza-t solutions"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de front-end",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Node.js · MariaDB · Angular · DBeaver · Linux · Git"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "ES",
-        "fullName": "Español",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "GL",
-        "fullName": "Gallego",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -98,6 +129,18 @@
           "name": "SQL",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones multiplataforma",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "CPR Daniel Castelao"
+        },
+        "finishDate": "2021-06-30"
       }
     ],
     "softSkills": [
