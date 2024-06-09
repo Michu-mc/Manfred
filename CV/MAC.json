@@ -1,21 +1,22 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Miguel",
       "surnames": "Martínez Costa",
-      "title": "El peor jugador de videojuegos ",
-      "description": "Me interesé por la programación de casualidad, pero una vez que le di una oportunidad y me encantó. Disfruto mucho programando ",
+      "title": "Base de datos",
+      "description": "Tengo una experiencia de dos meses de prácticas, en las cuales desarrollé la parte gráfica de un microservicio y desarrollé plantillas de impresión, utilizando lenguajes como HTML5, CSS, Angular y Node js.\nEl microservicio era de una aplicación web para un taller en el cual podías marcar los detalles de las incidencias, escribir breves descripciones, completar los datos del propietario y otros datos de importancia.",
       "avatar": {
-        "alt": "SAVE_20210818_163356.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/09/48f0c6d1-8e49-48b8-83df-267ed6a62128_save_20210818_163356.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/eb2a5ea3-86e5-4a5b-a8a4-b8e8c00fe6f8_linkedin-photo-7954.linkedin-photo-7954",
+        "alt": "24/06/09/eb2a5ea3-86e5-4a5b-a8a4-b8e8c00fe6f8_linkedin-photo-7954.linkedin-photo-7954"
       },
       "location": {
-        "notes": "Pontevedra "
+        "notes": "Autocompleted using Google Maps API (id: ChIJ91_ZgYdjLw0R0BbLc4L1BAQ)",
+        "country": "España"
       }
     },
     "interestingFacts": [
@@ -28,43 +29,25 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "GL",
+        "fullName": "Gallego",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -76,13 +59,37 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -92,9 +99,34 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "asbarxas.miguelmartinez@gmail.com"
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
@@ -121,7 +153,16 @@
           "name": "SQL",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Analyst & BI",
+        "Frontend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Sobre todo estar con un equipo de trabajo amigable ",
+    "goodPractices": "Conocimientos sólidos en HTML y CSS.\nHabilidad alta en SQL y MongoDB"
   }
 }
