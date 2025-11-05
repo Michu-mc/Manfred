@@ -250,7 +250,12 @@
         "Frontend Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Sobre todo estar con un equipo de trabajo amigable ",
