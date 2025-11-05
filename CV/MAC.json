@@ -246,8 +246,7 @@
         }
       ],
       "preferredRoles": [
-        "Data Analyst & BI",
-        "Frontend Developer"
+        "DBA"
       ]
     },
     "status": "searchingActively",
@@ -258,6 +257,12 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Sobre todo estar con un equipo de trabajo amigable ",
     "goodPractices": "Conocimientos sólidos en HTML y CSS.\nHabilidad alta en SQL y MongoDB"
   }
