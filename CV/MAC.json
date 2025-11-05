@@ -9,7 +9,7 @@
       "name": "Miguel",
       "surnames": "Martínez Costa",
       "title": "Base de datos",
-      "description": "Tengo una experiencia de dos meses de prácticas, en las cuales desarrollé la parte gráfica de un microservicio y desarrollé plantillas de impresión, utilizando lenguajes como HTML5, CSS, Angular y Node js.\nEl microservicio era de una aplicación web para un taller en el cual podías marcar los detalles de las incidencias, escribir breves descripciones, completar los datos del propietario y otros datos de importancia.",
+      "description": "Tengo una experiencia de dos meses de prácticas, en las cuales desarrollé la parte gráfica de un microservicio y desarrollé plantillas de impresión, utilizando lenguajes como HTML5, CSS, Angular y Node js. El microservicio era de una aplicación web para un taller en el cual podías marcar los detalles de las incidencias, escribir breves descripciones, completar los datos del propietario y otros datos de importancia.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/2b13c94d-41a1-4ba0-8696-9b7ec2d77c44_linkedin-photo-7954.linkedin-photo-7954",
         "alt": "24/06/09/2b13c94d-41a1-4ba0-8696-9b7ec2d77c44_linkedin-photo-7954.linkedin-photo-7954"
@@ -30,11 +30,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Fandicosta S.A.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/09/a4f5b65e-0722-4738-8c16-cde7fb5d0572_linkedin-photo-7954.linkedin-photo-7954",
-            "alt": "24/06/09/a4f5b65e-0722-4738-8c16-cde7fb5d0572_linkedin-photo-7954.linkedin-photo-7954"
-          }
+          "name": "Fandicosta S.A."
         },
         "roles": [
           {
@@ -56,12 +52,7 @@
           {
             "name": "Desarrollador de front-end",
             "startDate": "2021-04-01",
-            "finishDate": "2021-06-30",
-            "challenges": [
-              {
-                "description": "Skills: Node.js · MariaDB · Angular · DBeaver · Linux · Git"
-              }
-            ]
+            "finishDate": "2021-06-01"
           }
         ]
       }
@@ -177,12 +168,12 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones multiplataforma",
+        "name": "Ciclo Formativo de Grado Superior",
         "startDate": "2019-09-01",
         "institution": {
           "name": "CPR Daniel Castelao"
         },
-        "finishDate": "2021-06-30"
+        "finishDate": "2021-06-01"
       }
     ],
     "softSkills": [
