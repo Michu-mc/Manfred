@@ -210,6 +210,12 @@
     "contact": {
       "contactMails": [
         "asbarxas.miguelmartinez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "617584557",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
